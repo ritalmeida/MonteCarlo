@@ -1,0 +1,3 @@
+/Users/Ritaa/Documents/FACULDADE/SistemasOperativos/MonteCarlo/cmake-build-debug/CMakeFiles/MonteCarlo.dir
+/Users/Ritaa/Documents/FACULDADE/SistemasOperativos/MonteCarlo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Ritaa/Documents/FACULDADE/SistemasOperativos/MonteCarlo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
